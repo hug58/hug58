@@ -1,8 +1,6 @@
 ## Hi there!
 I am a software developer and I welcome you to this profile! :smiley:
 
-You can contact me to help you or just chat :wink: ...
-or invite me to chew something :hamburger: :fries: :cup_with_straw:	 :yum:
 
 ### Somethings about me
 + My favorite programming language is python :muscle: :fist: :point_down: :computer: :exclamation: :fire: :boom: :fire_engine: :rotating_light: :fire_engine:
